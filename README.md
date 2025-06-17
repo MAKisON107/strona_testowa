@@ -64,7 +64,8 @@ or:
 
 http://[your_server_ip]
 
-📦 How to Use
+📦 How to Use:
+
 Upload files to your web server's root directory
 
 Open the page in a browser to verify everything is working
@@ -77,7 +78,8 @@ Test file permissions
 
 Extend with PHP or custom components if needed
 
-🤝 Contributing
+🤝 Contributing:
+
 Feel free to contribute!
 
 Fork this repository
