@@ -10,92 +10,92 @@ Minimalist test page for verifying **WWW server** configuration on both **Linux*
 
 ## 📸 Preview
 
-![screenshot](strona.png)
+![screenshot](https://raw.githubusercontent.com/MAKisON107/strona_testowa/main/screenshot.png)
 
-> 💡 *Don't see anything? Add a file named `screenshot.png` showing your page.*
+> 💡 *This is a sample screenshot of the test page running in a browser.*
 
 ---
 
 ## 📄 Description
 
-This project is a lightweight HTML/CSS page created to help test the setup of web servers like **Apache**, **Nginx**, or **IIS**.  
-It's perfect for confirming that your environment is configured correctly and responding as expected.
+This project is a lightweight HTML/CSS web page created to test the setup of web servers like **Apache**, **Nginx**, or **IIS**.  
+It allows you to quickly verify if your server is functioning correctly on **Linux** or **Windows**.
 
-Also great as a boilerplate for learning or extending into more advanced web projects.
+It’s also ideal as a starting template for local or remote web development.
 
 ---
 
 ## ✨ Features
 
 - ✅ Minimal and clean layout  
-- ✅ Compatible with Apache, Nginx, IIS  
+- ✅ Compatible with major web servers  
 - ✅ Works on both Linux and Windows  
 - ✅ No external dependencies  
-- ✅ Easy to customize or expand
+- ✅ Lightweight and fast  
+- ✅ Easy to extend or customize
 
 ---
 
 ## 🛠 Technologies Used
 
-- **HTML5** – page structure  
-- **CSS3** – styling  
-- *(optional)* **JavaScript** – for future enhancements  
+- **HTML5** – document structure  
+- **CSS3** – responsive design and styling  
+- *(Optional)* JavaScript – if needed for future interactive elements
 
 ---
 
 ## 🚀 Local Installation
 
-1. Clone the repository:
+To set up and run this project locally:
+
+1. Clone this repository:
    ```bash
    git clone https://github.com/MAKisON107/strona_testowa.git
-Move the files to your web server directory:
+Move the files to your server's document root:
 
-Linux (e.g. Apache/Nginx):
+Linux (Apache/Nginx):
 /var/www/html/
 
-Windows (e.g. XAMPP/IIS):
+Windows (IIS/XAMPP):
 C:\inetpub\wwwroot\ or htdocs\
 
-Launch your browser and visit:
+Open your browser and visit:
+
 
 http://localhost
-
 or:
-
 http://[your_server_ip]
 
-📦 How to Use:
+📦 Use Cases
 
-Upload files to your web server's root directory
+Test your web server installation
 
-Open the page in a browser to verify everything is working
+Debug access or permission issues
 
-Use it to:
+Extend with PHP, JS, or backend logic
 
-Confirm server setup
+Use as a simple default landing page
 
-Test file permissions
+Ideal for educational purposes and lab environments
 
-Extend with PHP or custom components if needed
+🤝 Contributing
+Contributions are welcome!
 
-🤝 Contributing:
+Fork the repository
 
-Feel free to contribute!
+Create a new feature branch:
 
-Fork this repository
 
-Create a feature branch:
-
-git checkout -b feature/my-improvement
+git checkout -b feature/your-feature-name
 Commit your changes
 
-Push and create a Pull Request
+Push to GitHub and submit a Pull Request
 
 👤 Author
 MAKisON107
-🔗 GitHub Profile
+🔗 GitHub: github.com/MAKisON107
 
 📝 License
 This project is licensed under the MIT License.
-Feel free to use, copy, modify, and share.
+You are free to use, copy, modify, and distribute this project as you like.
 
