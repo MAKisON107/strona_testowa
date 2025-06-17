@@ -10,7 +10,7 @@ Minimalist test page for verifying **WWW server** configuration on both **Linux*
 
 ## 📸 Preview
 
-![screenshot](<img width="2056" alt="strona" src="https://github.com/user-attachments/assets/5ba61c76-a4b7-4821-b871-d2c5310cd32f"/>)
+![screenshot](strona.png)
 
 > 💡 *Don't see anything? Add a file named `screenshot.png` showing your page.*
 
