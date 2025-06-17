@@ -10,7 +10,7 @@ Minimalist test page for verifying **WWW server** configuration on both **Linux*
 
 ## 📸 Preview
 
-![screenshot](https://raw.githubusercontent.com/MAKisON107/strona_testowa/main/screenshot.png)
+![screenshot](strona.png)
 
 > 💡 *This is a sample screenshot of the test page running in a browser.*
 
