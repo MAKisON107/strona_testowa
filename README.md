@@ -58,15 +58,10 @@ C:\inetpub\wwwroot\ or htdocs\
 
 Launch your browser and visit:
 
-arduino
-Kopiuj
-Edytuj
 http://localhost
+
 or:
 
-cpp
-Kopiuj
-Edytuj
 http://[your_server_ip]
 📦 How to Use
 Upload files to your web server's root directory
@@ -88,9 +83,6 @@ Fork this repository
 
 Create a feature branch:
 
-bash
-Kopiuj
-Edytuj
 git checkout -b feature/my-improvement
 Commit your changes
 
