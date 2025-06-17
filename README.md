@@ -1,9 +1,9 @@
 # Strona testowa dla serwerów
 
-Repozytorium, w którym znajdują się potrzebne rzeczy na test usługi WWW w serwerze Windows oraz Linux.
+<h2>Repozytorium, w którym znajdują się potrzebne rzeczy na test usługi WWW w serwerze Windows oraz Linux.</h2>
 
-Na co to?
+<h4>Na co to?</h4>
 
-to jest testowa strona by zbadać poprawność działania usług WWW w Windows Server i Linux!
+<p>to jest testowa strona by zbadać poprawność działania usług WWW w Windows Server i Linux!</p>
 
-Made by MAKisON
+<h2>Made by MAKisON</h2>
